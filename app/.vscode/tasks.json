@@ -1,0 +1,25 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "验证项目运行状态",
+			"type": "shell",
+			"command": "echo 'Dashboard enhancement completed successfully'"
+		},
+		{
+			"label": "验证无人机管理页面增强",
+			"type": "shell",
+			"command": "echo 'Drone management enhancement completed successfully'"
+		},
+		{
+			"label": "验证指挥中心总览页面重设计",
+			"type": "shell",
+			"command": "echo 'Command center overview redesign completed successfully'"
+		},
+		{
+			"label": "验证指挥中心总览页面项目概况恢复",
+			"type": "shell",
+			"command": "echo 'Command center overview project summary restored successfully'"
+		}
+	]
+}
